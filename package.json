@@ -1,0 +1,16 @@
+{
+  "name": "@giorgio-casati/prettier-config",
+  "version": "1.0.0",
+  "description": "My prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GiorgioCasati/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Giorgio Casati",
+  "license": "MIT",
+  "homepage": "https://github.com/GiorgioCasati/prettier-config#readme"
+}
